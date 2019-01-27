@@ -62,6 +62,8 @@ HDD 100G
 |443|https接続に使う|
 |3306|mysqlへの接続に使う|
 
+イメージ画像  
+![img/port.png](img/port.png)
 
 ## sshログイン
 linuxのssh コマンドを使用してサーバへログインします。  
