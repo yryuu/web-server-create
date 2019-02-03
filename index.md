@@ -68,4 +68,6 @@ HDD 100G
 ## 資料一覧
 * [sshログインとユーザ作成](curriculum/user-create.md)
 
-* [二進数の理解]()
+* [二進数の理解](curriculum/binary-number.md)
+
+* [パーミッションの理解](curriculum/permission.md)
